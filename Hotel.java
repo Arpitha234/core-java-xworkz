@@ -1,0 +1,10 @@
+class Hotel{
+static String hotelmenu[] = {"SteamIdli", "ButterIdli", "FryIdli", "DahiIdli", "DahiWada", "MeduWada", "IdliWada", "Upma", "Sheera", "Upmadahi", "SheeraMix", "BatataWada"," MisalDahi","MisalTomato", "Omlet", "Usal", "PuriBhaii","SadaDose","MasalaDose","RavaDose","RavaSadaDose","RavaMasalDose","OnionDose","OnionRavaDose","OnionRavaSada","OnionRavaMasala","MysoreSadaDose","MysoreMasalaDose","PaperSada","PaperMasala","PalakDose","PalakMasalaDose","CheeseSada","CheeseMasala","CheeseMasalaSada","CheeseMysoreMasala","CheeseRavaSada","CheeseRavaMasala","Tea","Coffee","Nescafe","Milk","MasalaTea","BlackTea","VegSandwich","Thali","MiniThali","Rice","DahiPuri","PavBaaji"};
+public static void main(String hotel[]){
+
+System.out.println("List Of hotelmenu are:");
+System.out.println(hotelmenu[0] + " " + hotelmenu[1] + " " +hotelmenu[2] + " " +hotelmenu[3] + " " +hotelmenu[4] + " " +hotelmenu[5] + " " +hotelmenu[6] + " " +hotelmenu[7] + " " +hotelmenu[8] + " " +hotelmenu[9] + " " +hotelmenu[10] + " " +hotelmenu[11] + " " +hotelmenu[12] + " " +hotelmenu[13] + " " +hotelmenu[14] + " " +hotelmenu[15] + " " +hotelmenu[16] + " " +hotelmenu[17] + " " +hotelmenu[18] + " " +hotelmenu[19] + " " +hotelmenu[20] + " " +hotelmenu[21] + " " +hotelmenu[22] + " " +hotelmenu[23] + " " +hotelmenu[24] + " " +hotelmenu[25] + " " +hotelmenu[26] + " " +hotelmenu[27] + " " +hotelmenu[28] + " " +hotelmenu[29] + " " +hotelmenu[30] + " " +hotelmenu[31] + " " +hotelmenu[32] + " " +hotelmenu[33] + " " +hotelmenu[34] + " " +hotelmenu[35] + " " +hotelmenu[36] + " " +hotelmenu[37] + " " +hotelmenu[38] + " " +hotelmenu[39] + " " +hotelmenu[40] + " " +hotelmenu[41] + " " +hotelmenu[42] + " " +hotelmenu[43] + " " +hotelmenu[44] + " " +hotelmenu[45] + " " +hotelmenu[46] + " " +hotelmenu[47] + " " +hotelmenu[48] + " " +hotelmenu[49]);
+
+
+}
+}
